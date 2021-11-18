@@ -1,0 +1,18 @@
+/*Este arquivo falará sobre 5 tipos de falácias
+  Por: Gardênia Georgia Barbosda de Siqueira*/
+
+  -Falácia do pombo enxadrista: consiste em uma pessoa proclamar vitória,
+  dando a entender que venceu uma certa discussão, porém, sem ter conse
+  guido rearealmente apresentar bons argumentos.
+
+  -Falácia do esnobismo cronológico: consiste quando o pensamento, a arte
+  ou a ciência de um período histórico anterior é tido como inevitavelmen-
+  te inferior, quando comparado com os equivalentes do tempo presente.
+
+  Falácia da pressuposição: consiste na inclusão de uma pressuposição que
+  não foi previamente esclarecida como verdadeira, ou seja, uma falsa pre-
+  missa.
+  Falácia do falso axioma: consiste em fazer umaafirmação duvidosa ser um
+  axioma
+  Falácia do bulverismo: consiste em supor que o oponente está comprovada-
+  mente errrado e argumentar partindo dessa suposição.
